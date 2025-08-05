@@ -1,3 +1,6 @@
+/* By running this file the database is completely deleted and recreated.
+*/
+
 -- Create Database 'DataProject'
 
 USE master;
